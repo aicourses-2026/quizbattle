@@ -30,10 +30,10 @@ input {
 
 button { font: inherit; cursor: pointer; border: none; }
 .big {
-  background: #7c4dff; color: #fff; font-size: 20px; font-weight: 700;
-  padding: 14px 40px; border-radius: 14px; box-shadow: 0 6px 0 #4b2bb0;
+  background: #ff7a1a; color: #fff; font-size: 20px; font-weight: 700;
+  padding: 14px 40px; border-radius: 14px; box-shadow: 0 6px 0 #b84f00;
 }
-.big:active { transform: translateY(4px); box-shadow: 0 2px 0 #4b2bb0; }
+.big:active { transform: translateY(4px); box-shadow: 0 2px 0 #b84f00; }
 
 .topbar { display: flex; justify-content: space-between; color: #9aa3cc; font-weight: 700; }
 
@@ -45,7 +45,7 @@ button { font: inherit; cursor: pointer; border: none; }
   color: #fff; font-size: 18px; font-weight: 700; padding: 22px 12px; border-radius: 14px;
   min-height: 84px; display: flex; align-items: center; justify-content: center; gap: 8px;
 }
-.answer { background: #7c4dff; }
+.answer { background: #ff7a1a; }
 .answer .shape { font-size: 22px; }
 .answer.dim { opacity: 0.35; }
 .answer.right { outline: 4px solid #fff; }
