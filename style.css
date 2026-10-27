@@ -45,7 +45,7 @@ button { font: inherit; cursor: pointer; border: none; }
   color: #fff; font-size: 18px; font-weight: 700; padding: 22px 12px; border-radius: 14px;
   min-height: 84px; display: flex; align-items: center; justify-content: center; gap: 8px;
 }
-.answer { background: #ff7a1a; }
+.answer { background: #22c55e; }
 .answer .shape { font-size: 22px; }
 .answer.dim { opacity: 0.35; }
 .answer.right { outline: 4px solid #fff; }
